@@ -1,0 +1,36 @@
+body{
+    text-align: center;
+}
+.m{
+     display:inline;
+    padding: 5px;
+    color: aqua;
+    font-family:fantasy;
+    font-size: 20px;
+}
+#List{
+    list-style: none;
+    position: fixed;
+    top: 0px;
+    z-index: 10;
+    width: 100%;
+    cursor: pointer;
+    background: blue;
+}
+.m:hover{
+  background-color: darkblue;
+    font-size: 25px;
+    text-decoration: underline;
+    
+}
+section{
+    background: yellow;
+}
+img{
+    height: 225px;
+    width: 225px;
+}
+#slide
+{
+    background: red;
+}
